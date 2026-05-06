@@ -134,6 +134,28 @@ document.addEventListener("DOMContentLoaded", () => {
       ],
       appUrl: "https://hidekitakazawa.github.io/htCyonwenVoiceIn/",
     },
+     {
+      id: "sinQuiz", // 例: アプリ4のID
+      name: "App⑥新練習問題",
+      description:
+        "練習問題（クイズ形式）の新しいプログラムです。改善点がいくつかあります。",
+      images: [
+        {
+          src: "images/新クイズ初期画面.jpg",
+          caption: "アプリの初期画面です。",
+        },
+        {
+          src: "images/新クイズシート選択.jpg",
+          caption:
+            "学習したい課を選択できます。",
+        },
+        {
+          src: "images/新クイズ評価.jpg",
+          caption: "出された問題に対して回答を入力してチェックをクリックすれば、正解か誤りかを確認できます。",
+        },
+      ],
+      appUrl: " https://hidekitakazawa.github.io/chuanZhonwenQuiz/",
+    },
   ];
   // ----- ここまで編集してください -----
 
