@@ -1,5 +1,5 @@
 // キャッシュするファイルの名前とバージョンを定義
-const CACHE_NAME = 'cyugokugode-app-showcase-v5';
+const CACHE_NAME = 'cyugokugode-app-showcase-v6';
 // キャッシュするファイルのリスト
 const urlsToCache = [
   './', // index.html を示す
